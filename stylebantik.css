@@ -1,0 +1,53 @@
+body{
+    background-color: whitesmoke;
+    margin: 0px;
+    color:black;
+}
+.container{
+    display: flex;
+    /* background: url("../bantik/joska.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%; */
+    margin: 0px;
+} 
+.container3{
+    display: flex;
+    width: 100%;
+    background-color:white;
+    justify-content: center;
+    color:black;
+}
+.box1{
+    width: 50%;
+    text-align: center;
+}
+.box2{
+    width: 50%;
+    text-align: center;
+}
+.vvod{
+    width: 40px;
+}
+.vvod1{
+    width: 210px;
+}
+.container2{
+    display: flex;
+
+    justify-content:center;
+}
+.vvod2{
+    width: 50px;
+    height: 18px;
+}
+.vvod3{
+    width: 140px;
+}
+.knopka{
+    margin: 5px;
+    text-align: center;
+}
+.container4{
+    margin-left: 10px;
+    
+}
